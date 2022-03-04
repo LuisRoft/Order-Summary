@@ -25,9 +25,9 @@ body {
     height: 100vh;
     display: grid;
     place-content: center;
-    background: var(--Pale-blue);
-    background-image: url(../images/pattern-background-mobile.svg);
+    background: var(--Pale-blue);    
     font-family: var(--red-hat);
+    background-image: url(../images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     background-size: contain;
 }
