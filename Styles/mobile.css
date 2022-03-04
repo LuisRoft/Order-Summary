@@ -28,6 +28,8 @@ body {
     background: var(--Pale-blue);
     background-image: url(../images/pattern-background-mobile.svg);
     font-family: var(--red-hat);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .Order-summay-card {
